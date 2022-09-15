@@ -1,0 +1,97 @@
+.front-end{
+    text-align: center;
+    margin-top: 18px;
+    line-height: 2;
+}
+
+h4{
+margin: 10px 30px 10px 10px;
+}*{
+margin: 0;
+padding: 0;
+}
+body{
+background-color: white;
+}
+.second{
+        font-weight: lighter;
+        font-size: small;
+
+
+font-size: small;
+}
+.AGENCY{
+font-weight: 400;
+}
+.contacts{
+font-weight: bolder;
+}
+.navigation{
+display: flex;
+background-color: #fff;
+padding: 16px;
+justify-content: end;
+}
+.contacts{
+margin-left: 100px;
+margin-right: auto;
+}
+.people{
+margin-right: 40px;
+font-size: smaller;
+color: rgba(0, 0, 0, 0.226);
+}
+.contacts{
+margin-left: 150px;
+}
+.ben{
+width: 100%;
+height: 550px;
+/*position:relative;*/
+
+}
+.box{
+background-color: rgba(29, 124, 29, 0.904);
+width: 600px;
+height: 200px;
+position:absolute;
+top: 240px;
+color: #fff;
+text-align: center;
+font-family: Verdana;
+line-height: 2;
+
+}
+.daddy{
+background-color: rgba(31, 116, 31, 0.973);
+padding: 5px 25px 5px 25px;
+color: #fff;
+border: none;
+margin-left:600px;
+}
+.daddy:hover{
+background-color: blue;
+color: red;
+
+}
+.PARENT{
+color: rgba(0, 0, 0, 0.514);
+text-align: center;
+
+}
+.boss:hover{
+    background-color: blue;
+    color: black;
+}
+.boss{
+width: 30px;
+height: 70px;
+background-color: rgba(29, 124, 29, 0.904);
+font-weight:lighter;
+bottom: 100px;
+position:absolute;
+left: 1324px;
+border: none;
+font-size: larger;
+color: #fff;
+}
